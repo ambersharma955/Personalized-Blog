@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/jack of all trades",
+        "prod_uri":"mysql+pymysql://root:@localhost/jack of all trades",
+
+        "Blog_name":"BLOG",
+        "H":"Jack of All Trades",
+        "sub1":"(MASTER OF NONE)",
+        "sub2":"By a cursed homo sapien",
+        "side_name":"Built in chaos",
+        "page1":"Home",
+        "page2":"About",
+        "page3":"Contact",
+        "gmail_user":"xyzg@gmail.com",
+        "gmail_password":"xxxxpassword",
+        "no_of_posts":"2",
+        "login_image":"login.jpg",
+        "admin_user":"amber",
+        "admin_password":"yourpasswrod",
+        "secret_key":"thisissecretkey",
+        "upload_location":"C:\\Users\\Amber Sharma\\Desktop\\flask\\static\\"
+    }
+}
